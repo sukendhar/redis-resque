@@ -1,0 +1,5 @@
+{
+  "name": "redis-resque",
+  "private": true,
+  "dependencies": {}
+}
